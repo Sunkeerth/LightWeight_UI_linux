@@ -1,7 +1,7 @@
 # LightWeight_UI_linux
 Yes, it's totally possible to build a **basic UI for Linux**, and many have done it before! Let's break it down:
 
----
+--
 
 ### ✅ **What You’re Trying to Build**
 You want to create a **custom GUI (Graphical User Interface) for Linux** — basically giving a face to the command-line-only experience.
